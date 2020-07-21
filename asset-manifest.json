@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-react-google-map/static/css/main.dc427b58.chunk.css",
+    "main.js": "/test-react-google-map/static/js/main.45917aad.chunk.js",
+    "main.js.map": "/test-react-google-map/static/js/main.45917aad.chunk.js.map",
+    "runtime-main.js": "/test-react-google-map/static/js/runtime-main.bb42503e.js",
+    "runtime-main.js.map": "/test-react-google-map/static/js/runtime-main.bb42503e.js.map",
+    "static/js/2.839dc37b.chunk.js": "/test-react-google-map/static/js/2.839dc37b.chunk.js",
+    "static/js/2.839dc37b.chunk.js.map": "/test-react-google-map/static/js/2.839dc37b.chunk.js.map",
+    "index.html": "/test-react-google-map/index.html",
+    "precache-manifest.1f463f32d44625f333fae6c074773887.js": "/test-react-google-map/precache-manifest.1f463f32d44625f333fae6c074773887.js",
+    "service-worker.js": "/test-react-google-map/service-worker.js",
+    "static/css/main.dc427b58.chunk.css.map": "/test-react-google-map/static/css/main.dc427b58.chunk.css.map",
+    "static/js/2.839dc37b.chunk.js.LICENSE.txt": "/test-react-google-map/static/js/2.839dc37b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb42503e.js",
+    "static/js/2.839dc37b.chunk.js",
+    "static/css/main.dc427b58.chunk.css",
+    "static/js/main.45917aad.chunk.js"
+  ]
+}
